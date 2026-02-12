@@ -1,4 +1,3 @@
-print("HELLO WORLD")
 def total_salary(path):
     try:
         with open(path, 'r', encoding='utf-8') as file:
